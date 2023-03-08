@@ -1,0 +1,8 @@
+version: 2.0.0
+files:
+  - url: TomAccounting-Setup-2.0.0.exe
+    sha512: l1M8Ln7xsJdZZqw43tSaQP7ybOPjC1W10Gqo0bVQ5AYbS5dV+fBgIL4KnjSvHAYc1ce4cyCFyukl/8xRtGftpQ==
+    size: 83470745
+path: TomAccounting-Setup-2.0.0.exe
+sha512: l1M8Ln7xsJdZZqw43tSaQP7ybOPjC1W10Gqo0bVQ5AYbS5dV+fBgIL4KnjSvHAYc1ce4cyCFyukl/8xRtGftpQ==
+releaseDate: '2023-03-08T09:46:25.575Z'
